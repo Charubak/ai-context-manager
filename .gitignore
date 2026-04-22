@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+data/conversations/
+data/contexts/
+data/master_context.md
+data/master_context.json
+*.DS_Store

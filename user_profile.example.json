@@ -1,0 +1,8 @@
+{
+  "name": "Your Name",
+  "role": "Software Engineer",
+  "location": "City, Country",
+  "skills": ["Python", "React", "FastAPI", "TypeScript"],
+  "current_priorities": ["Job search", "Portfolio projects"],
+  "background": "Brief 1-2 sentence professional background"
+}
